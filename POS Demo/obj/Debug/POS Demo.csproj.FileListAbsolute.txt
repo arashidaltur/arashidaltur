@@ -1,0 +1,25 @@
+C:\Users\ALTUR\source\repos\POS Demo\obj\Debug\POS Demo.csproj.AssemblyReference.cache
+C:\Users\ALTUR\source\repos\POS Demo\obj\Debug\POS_Demo.Form1.resources
+C:\Users\ALTUR\source\repos\POS Demo\obj\Debug\POS Demo.csproj.GenerateResource.cache
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\POS Demo.exe.config
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\POS Demo.exe
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\POS Demo.pdb
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\ALTUR\source\repos\POS Demo\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\ALTUR\source\repos\POS Demo\obj\Debug\POS_Demo.Properties.Resources.resources
+C:\Users\ALTUR\source\repos\POS Demo\obj\Debug\POS Demo.csproj.CoreCompileInputs.cache
+C:\Users\ALTUR\source\repos\POS Demo\obj\Debug\POS Demo.csproj.CopyComplete
+C:\Users\ALTUR\source\repos\POS Demo\obj\Debug\POS Demo.exe
+C:\Users\ALTUR\source\repos\POS Demo\obj\Debug\POS Demo.pdb
